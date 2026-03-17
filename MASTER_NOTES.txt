@@ -1,0 +1,63 @@
+=== MALE CHARACTER ===
+Age: 10, short black hair, light brown skin, blue half-sleeve shirt, dark grey shorts, barefoot
+
+=== FEMALE CHARACTER ===
+Age: 10, black hair in two braids, light brown skin, green and yellow frock, barefoot
+
+=== STYLE BLOCK (paste at end of every prompt) ===
+2D comic book illustration style, bold black outlines, warm muted color palette, South Asian rural Bangladesh setting, no text, no UI, no watermark, 16:9 wide shot.
+
+=== WEATHER: SIGNAL 3 ===
+dark grey overcast sky, moderate wind gently bending palm trees, distant rough sea, light rain starting
+
+=== WEATHER: SIGNAL 4 ===
+heavy black storm clouds covering entire sky, strong winds bending trees hard, large waves forming, torrential rain, very dark dramatic atmosphere
+
+=== WEATHER: SIGNAL 8-10 ===
+almost pitch black stormy sky, violent destructive winds, debris flying, massive waves crashing, lightning flashes
+
+=== EXPRESSIONS AVAILABLE ===
+neutral / worried / thinking with hand on chin / happy smiling / scared wide eyes / determined serious
+
+=== LOCATIONS ===
+Tea Stall: wooden benches, wooden counter with glass jars, old transistor radio, hanging bare bulb, mud walls
+Beach: rough ocean waves, fishing boats on shore, coconut trees bending in wind
+Village Road: dirt pathway, green fields both sides, coconut trees, small houses in distance
+Home Interior: bamboo walls, tin roof, simple wooden furniture, cot, clay pots, small window
+Cyclone Shelter: concrete elevated building, green surroundings
+
+=== LIGHTING BLOCKS ===
+
+--- EXTERIOR DAY (normal) ---
+soft natural daylight, slight overcast diffused light, no harsh shadows
+
+--- EXTERIOR STORMY DAY ---
+dark dramatic natural light, heavy shadow from storm clouds, 
+grey-green tint in atmosphere, no direct sunlight
+
+--- EXTERIOR NIGHT STORM ---
+near complete darkness, only lightning flashes as light source, 
+deep blue-black shadows, occasional lightning rim lighting
+
+--- INTERIOR TEA STALL / HOME (day) ---
+dim warm interior lighting from single hanging bare bulb, 
+warm yellow-orange glow, dark corners, window light blocked by storm outside
+
+--- INTERIOR TEA STALL / HOME (tense/dramatic) ---
+very dim warm tungsten light, heavy shadows on faces, 
+high contrast between lit and dark areas, moody atmosphere
+
+--- BEACH / SHORELINE ---
+flat grey stormy light, no shadows, 
+white foam on waves catching only light source, 
+dark brooding horizon
+
+--- CYCLONE SHELTER ---
+harsh concrete ambient light outside, 
+crowded warm dim interior lighting inside, 
+emergency lantern glow if night scene
+
+--- DECISION POINT SCENES (close up on child thinking) ---
+soft dramatic side lighting on face, 
+one side lit warm, other side in shadow, 
+cinematic portrait lighting
